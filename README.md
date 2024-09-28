@@ -9,7 +9,7 @@ This repository contains configuration files for various programs I frequently u
 git init
 
 # Add the remote repository
-git remote add origin https://github.com/yojoecapital/my-config.git
+git remote add origin https://github.com/yojoecapital/my-win-config.git
 
 # Fetch the latest changes from the repository
 git fetch origin
