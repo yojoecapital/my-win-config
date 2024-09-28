@@ -1,4 +1,4 @@
-# My Configuration
+# My Windows Configuration
 
 This repository contains configuration files for various programs I frequently use on Windows. It is placed in the `%USERPROFILE%` directory.
 
