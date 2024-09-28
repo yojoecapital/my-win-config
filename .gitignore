@@ -4,6 +4,7 @@
 # But not these directories
 !README.md
 !.gitignore
+!.gitconfig
 !.config/
 !.config/micro/
 !.config/micro/**
@@ -12,3 +13,15 @@
 !Documents/
 !Documents/PowerShell/
 !Documents/PowerShell/Microsoft.PowerShell_profile.ps1
+!AppData/
+!AppData/Roaming/
+!AppData/Roaming/Typora/
+!AppData/Roaming/Typora/themes
+!AppData/Roaming/Typora/themes/gitbook/
+!AppData/Roaming/Typora/themes/gitbook/**
+!AppData/Roaming/Typora/themes/gitbook-azure.css
+!AppData/Roaming/Typora/themes/gitbook-slate.css
+!AppData/Roaming/Typora/themes/gitbook-slate-dark-image.css
+!AppData/Roaming/Typora/themes/gitbook-teal.css
+!AppData/Roaming/Typora/conf/
+!AppData/Roaming/Typora/conf/**
