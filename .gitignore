@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these directories
+!README.md
+!.gitignore
+!.config/
+!.config/micro/
+!.config/micro/**
+.config/micro/buffers/
+.config/micro/backups/
+!Documents/
+!Documents/PowerShell/
+!Documents/PowerShell/Microsoft.PowerShell_profile.ps1

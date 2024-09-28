@@ -1,0 +1,7 @@
+{
+    "*.yml": {
+        "autoindent": false
+    },
+    "colorscheme": "catppuccin-mocha",
+    "scrollbar": true
+}
